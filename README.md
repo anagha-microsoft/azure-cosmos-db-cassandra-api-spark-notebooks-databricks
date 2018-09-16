@@ -1,1 +1,3 @@
-# azure-cosmos-db-cassandra-api-spark-notebooks-databricks
+# Databricks notebook samples for Spark integration with Azure Cosmos DB Cassandra API
+
+
